@@ -8,7 +8,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @TroJanzSupport
+Support Group : @torrent_mirror_zone
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @TroJanzSupport
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @TroJanzSupport
+Support Group : @torrent_mirror_zone
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -33,7 +33,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>👉 Find Your Own Repo and Deploy.. </b>"
     
     DOWNLOAD_START = "Trying to download your file..."
     
@@ -49,6 +49,6 @@ URL | newfilename | username | password"""
 
     CUSTOM_CAPTION_UL_FILE = " "
 
-    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home"
 
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
